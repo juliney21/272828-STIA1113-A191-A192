@@ -81,7 +81,7 @@ Start
  
  # Flowchart
  
- ![f;owchart](https://user-images.githubusercontent.com/55243931/68501941-54413480-029a-11ea-86f7-eb2dd902a44b.png)
+ ![Flowchart](https://user-images.githubusercontent.com/55243931/68543015-da6d9000-03ec-11ea-87f2-1df5155e5f22.png)
  
  # Screenshot for output
  
